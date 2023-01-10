@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/app.dir/noskhe.cpp.o CMakeFiles/app.dir/shuffle.cpp.o  -o app 

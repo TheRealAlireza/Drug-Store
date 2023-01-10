@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/app.dir/main.cpp.o CMakeFiles/app.dir/shuffle.cpp.o CMakeFiles/app.dir/prescription.cpp.o CMakeFiles/app.dir/check.cpp.o CMakeFiles/app.dir/menu.cpp.o  -o app 
